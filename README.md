@@ -1,4 +1,4 @@
-# ET-E-commerce-
+# ET-Ecommerce
 
 ## acceptance criteria
 
